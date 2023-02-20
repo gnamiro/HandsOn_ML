@@ -5,7 +5,7 @@ This notebook is forked from [nn-zero-to-hero](https://github.com/karpathy/nn-ze
 In this Notebook, you will see:
 1. How to build a GPT
 1. The main reason behind Attention.
-2. An explanation about the struction of Transformers.
+2. An explanation about the structure of Transformers.
 3. A little talk about the ChatGPT and how it is built.
 4. Finally the whole code of how to generate shakespear poem with a language model.
 
